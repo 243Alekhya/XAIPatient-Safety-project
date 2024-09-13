@@ -9,3 +9,9 @@ Benefits
 Usage
 Contact
 ## Overview
+## Technologies Used
+## How it Works
+## Deployment
+## Benefits
+## Usage
+## Contact
